@@ -40,3 +40,5 @@ jobs:
 
       - name: Run automated ML tests
         run: python -m unittest discover -v
+      - name: Run automated ML tests
+        run: python -m unittest discover -v
